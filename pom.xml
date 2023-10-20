@@ -16,8 +16,7 @@
 	<name>UserApp_Mongo</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
-		<maven.compiler.target>17</maven.compiler.target>
-		<maven.compiler.source>17</maven.compiler.source>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
